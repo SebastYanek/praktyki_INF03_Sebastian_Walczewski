@@ -72,3 +72,14 @@ width: 100%;
 }
 
 }
+
+body {
+    background-color: #f5f5f5;
+    color:#222;
+}
+button{
+    background-color: #2E8B57;
+    color:white;
+    border:none;
+    padding:10px;
+}
