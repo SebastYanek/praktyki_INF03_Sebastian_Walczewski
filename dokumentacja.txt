@@ -1,0 +1,17 @@
+1. Utworzenie bazy danych Zakładu Gospodarki Komunalnej
+
+2. Operacje
+Stworzenie tabel
+- pracownicy
+- pojazdy
+- mieszkancy
+- zlecenia
+- odpady
+Dodanie kluczy głównych
+Stworzenie zapytań
+
+3. Stworzenie uzytkownika bazy danych i nadanie mu uprawnien
+
+4. Utworzenie backupu
+
+5. Wniosek: Baza danych dziala poprawnie, backup również działa poprawnie
